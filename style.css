@@ -1,0 +1,21 @@
+*{
+    font-size: 14px;
+    box-sizing: border-box;
+    font-family: cursive;
+}
+
+header{
+    background-color: #303030;
+    padding: 5px;
+    color: white;
+    text-align: center;
+    border-radius: 5px;
+}
+.logo-game{
+    font-size: 24px;
+}
+.game{
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+}
